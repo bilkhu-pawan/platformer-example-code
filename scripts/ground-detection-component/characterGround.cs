@@ -1,3 +1,5 @@
+// Adapted from Platformer ToolKit: https://gmtk.itch.io/platformer-toolkit
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
